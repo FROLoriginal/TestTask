@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="avatar_size">48dp</dimen>
+    <dimen name="standard_material_margin">8dp</dimen>
+    <dimen name="avatar_margin">5dp</dimen>
+    <dimen name="company_info_buttons_margin">4dp</dimen>
+    <dimen name="company_profile_img_height">200dp</dimen>
+</resources>

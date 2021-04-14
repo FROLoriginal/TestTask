@@ -1,3 +1,14 @@
 <resources>
     <string name="app_name">TestTask</string>
+    <string name="information">Информация</string>
+    <string name="error">Ошибка</string>
+    <string name="investment">Их акции купили миллионы…</string>
+    <string name="download">Загрузка</string>
+    <string name="geo_error">Нет поддерживаемых карт</string>
+    <string name="phone_error">Нет поддерживаемых приложений для звонков</string>
+    <string name="browser_error">Ссылка не поддерживается браузером</string>
+    <string name="net_error">Ошибка загрузки. Проверьте подключение к сети и повторите попытку.</string>
+    <string name="try_again_error">Повторить попытку</string>
+    <string name="location">Локация</string>
+    <string name="profile_company_image">profile_company_image</string>
 </resources>
